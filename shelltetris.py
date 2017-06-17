@@ -4,7 +4,7 @@ FPS = 30
 B_HEIGHT = 22
 B_RENDERHEIGHT = 20
 B_WIDTH = 10
-BLANK_CHAR = '_'
+BLANK_CHAR = '.'
 LAYOUTS = {
     'T': [[0, 0], [1, -1], [1, 0], [1, 1]],
     'O': [[0, 0], [0, 1], [1, 0], [1, 1]],
